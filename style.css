@@ -1,0 +1,42 @@
+nav {
+    background-color: #6A94FF;
+}
+
+
+nav a{
+    color: #FF6767;
+    font-weight: 700;
+    font-size: larger;
+}
+
+nav a:hover {
+    color: #FF6767;
+ 
+}
+
+nav form {
+    text-align: center;
+}
+
+
+
+
+ul li a {
+    color: white;
+}
+ul li a:hover {
+    color: white;
+}
+ul li a:hover {
+    color: white;
+    background-color: #4D79EA;
+}
+
+ul li .dropdown-menu {
+    background-color: #6A94FF;
+    color: white;
+}
+ul li .dropdown-menu :hover{
+    background-color: #4D79EA;
+    color: white;
+}
