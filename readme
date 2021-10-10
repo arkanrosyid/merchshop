@@ -1,0 +1,2 @@
+download all the file, open phpmyadmin -> make database name toko_online -> import the sql file to phpmyadmin
+admin password : root1234
